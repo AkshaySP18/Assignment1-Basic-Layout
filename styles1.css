@@ -31,12 +31,10 @@ main
     width: 100%;
     gap: 2.5rem;
     justify-content: center;
-    
     height: 70%;
 }
 .leftsection {
     width: 45%;
-    /* line-height: 2rem; */
     font-size: clamp(0.5rem,5vh - 1rem,2rem);
     text-align: justify;
     background: linear-gradient(90deg, rgb(142, 223, 80), #2abed5);
@@ -86,7 +84,6 @@ figure img
 span ul
 {
     display: flex;
-    /* list-style: none; */
     padding: 0;
     gap:2rem;
     margin: 0;
